@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @celuu
+- 👋 Hi, I’m Christine!
 - 👀 I’m interested in starting new projects!
-- 🌱 I’m currently learning C++ and SQL.
+- 🌱 I’m currently learning javascript!
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me is by email!
 
